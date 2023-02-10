@@ -1,6 +1,6 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
 
-![My Image](5.jpg)
+![My Image](5)
 
 ## INTRODUCTION
 
@@ -19,7 +19,7 @@ Performance will be evaluated according to the area under the receiver operating
 
 ## Data Understanding
 ###  Data Source
-The dataset used for this project was obtained from  [Drivendata website link] (https://www.drivendata.org/competitions/66/flu-shot-learning/)
+The dataset used for this project was obtained from  [Drivendata website link](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 
 ### Data Preparation and EDA
 - Loading of the Data using pandas library.
@@ -46,7 +46,7 @@ The models used to make predictions:
 
 # Repository Guide
 
-[Data Source](https://www.drivendata.org/competitions/66/flu-shot-learning/)
-[Data Report](https://docs.google.com/document/d/1IsAMbMRF3ex9mt15ZLmPeyY5h7LPOaKoULn382l96hk/edit#heading=h.p63tlwpychqj)
-[Canva Presentation slides](https://www.canva.com/design/DAFaJ-RNvgQ/mYYf4H-1m1h9cXYl6nrs0A/edit#)
-[Notebook](https://github.com/Antony-Kimanthi/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/master/Notebook.ipynb)
+- [Data Source](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+- [Data Report](https://docs.google.com/document/d/1IsAMbMRF3ex9mt15ZLmPeyY5h7LPOaKoULn382l96hk/edit#heading=h.p63tlwpychqj)
+- [Canva Presentation slides](https://www.canva.com/design/DAFaJ-RNvgQ/mYYf4H-1m1h9cXYl6nrs0A/edit#)
+- [Notebook](https://github.com/Antony-Kimanthi/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/master/Notebook.ipynb)
