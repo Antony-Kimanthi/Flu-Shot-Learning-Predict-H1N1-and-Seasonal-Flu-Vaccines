@@ -1,6 +1,7 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
 
-![My Image][5]
+![alt text]["C:\Users\Admin\Documents\PROJECTS\Phase 3 Project\Flu Shot Learning Predict H1N1 and Seasonal Flu Vaccines\Pictures\5.jpg"]
+
 
 ## INTRODUCTION
 
