@@ -1,7 +1,7 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
 
 
-![My Image](./Pictures/5.jpg")
+![My Image](./Pictures/5.jpg)
 
 
 ## INTRODUCTION
