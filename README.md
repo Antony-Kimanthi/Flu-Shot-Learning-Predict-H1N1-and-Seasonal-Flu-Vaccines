@@ -1,4 +1,5 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
+<<<<<<< HEAD
 
 ![My Image](5.jpg)
 
@@ -50,3 +51,6 @@ The models used to make predictions:
 [Data Report](https://docs.google.com/document/d/1IsAMbMRF3ex9mt15ZLmPeyY5h7LPOaKoULn382l96hk/edit#heading=h.p63tlwpychqj)
 [Canva Presentation slides](https://www.canva.com/design/DAFaJ-RNvgQ/mYYf4H-1m1h9cXYl6nrs0A/edit#)
 [Notebook](https://github.com/Antony-Kimanthi/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/master/Notebook.ipynb)
+=======
+Phase 3 Project
+>>>>>>> bfe816d27038842d8a7f3f3fec869733af1b96fd
