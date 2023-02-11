@@ -1,7 +1,8 @@
 # Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
-<<<<<<< HEAD
 
-![My Image](5.jpg)
+
+![My Image](./5.jpg)
+
 
 ## INTRODUCTION
 
@@ -35,14 +36,19 @@ The models used to make predictions:
 3. Decision Tree Clasifier.
 4. XGBoost.
 
+**NB** - *Standardization was done to the models while XGBoost was tuned.*
+
 ## Conclusions
+- From the models created, the Seasonal Vaccine has a higher ROC AUC score compared to the h1n1 Vaccine.
+- The performance of the predictive model was evaluated using several metrics where the best model produced had an average of 0.83 - 0.84 ROC AUC score i.e Logistic Regression and XGBoost models.
+- According to the age- groups, the older the person is, the more they are likely to be vaccinated than the young population.
+- Different races preferred to be vaccinated than the rest in the sample population i.e the Whites had most of their sampled population vaccinated.  
   
-  
-  
+> Disclaimer: :grin: Feel free to tweak around any of the hyper-parameter values or fiddle with the models. These were the best results that I could obtain with the models I chose.  
   
 ## Recommendations
-
-
+- Increase awareness and education to different races, so that they can see the benefit of being vaccinated in their respective races.
+- The young should be vaccinated more than the old population. Partnering with the schools and governments can be considered therefore enabling the young population to be vaccinated at an early age as they say *"Prevention is better than Cure".*
 
 
 # Repository Guide
@@ -50,7 +56,4 @@ The models used to make predictions:
 [Data Source](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 [Data Report](https://docs.google.com/document/d/1IsAMbMRF3ex9mt15ZLmPeyY5h7LPOaKoULn382l96hk/edit#heading=h.p63tlwpychqj)
 [Canva Presentation slides](https://www.canva.com/design/DAFaJ-RNvgQ/mYYf4H-1m1h9cXYl6nrs0A/edit#)
-[Notebook](https://github.com/Antony-Kimanthi/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/master/Notebook.ipynb)
-=======
-Phase 3 Project
->>>>>>> bfe816d27038842d8a7f3f3fec869733af1b96fd
+[Notebook](https://github.com/Antony-Kimanthi/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/blob/main/Notebook.ipynb)
