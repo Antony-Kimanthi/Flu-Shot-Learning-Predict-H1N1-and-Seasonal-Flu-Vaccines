@@ -21,7 +21,7 @@ Performance will be evaluated according to the area under the receiver operating
 
 ## Data Understanding
 ###  Data Source
-The dataset used for this project was obtained from  [Drivendata website link](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+The dataset used for this project was obtained from  [Drivendata website](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 
 ### Data Preparation and EDA
 - Loading of the Data using pandas library.
